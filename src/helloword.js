@@ -1,1 +1,1 @@
-console.log("hello! wold");
+console.log("Xin chào ! Mọi người !");
