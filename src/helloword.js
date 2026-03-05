@@ -1,1 +1,0 @@
-console.log("Xin chào ! Mọi người !");
